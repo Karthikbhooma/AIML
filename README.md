@@ -12,3 +12,4 @@ ML Assignment[3]:https://github.com/Karthikbhooma/AIML/blob/main/ML%20Assignment
 ML Assignment[4]:https://github.com/Karthikbhooma/AIML/blob/main/ML%20Assignment-4.ipynb    
 ML Assignment[5]:https://github.com/Karthikbhooma/AIML/blob/main/ML%20Assignment-5.ipynb      
 ML Assignment[6]:https://github.com/Karthikbhooma/AIML/blob/main/ML-6(1337).ipynb   
+ML Assignment[7]:https://github.com/Karthikbhooma/AIML/blob/main/ML%20Assignment-7(1337).ipynb
